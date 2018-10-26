@@ -1,2 +1,2 @@
 # Signebattrup.github.io
-Person website for MDU
+Personal website for MDU
